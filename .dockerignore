@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+venv/
+env/
+.ds_env/
+
+# Dataset files
+u.*
+ml-100k/
+*.data
+*.item
+*.user
+*.genre
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
